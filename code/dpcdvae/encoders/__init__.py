@@ -1,1 +1,0 @@
-from .dimenet import DimeNetppEncoder
